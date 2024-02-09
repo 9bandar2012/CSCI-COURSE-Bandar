@@ -1,0 +1,5 @@
+import pandas as pd
+import numpy as np
+cars_def = "cars.csv"
+cars_def = pd.read_csv(cars_def)
+cars_def.head() 
