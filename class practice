@@ -1,0 +1,10 @@
+import numpy as np
+import pandas as pd #importing a module, dependency. 
+
+
+
+
+titanic_df.describe()
+titanic_df[em]
+
+titanic_df["embarked_new"]=nb.where()"c","
